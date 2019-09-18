@@ -59,9 +59,9 @@ career-profile:
       Second paragraph if required.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: MSc in Computer and Information Technology
+      university: University of Pennsylvania
+      time: 2020 - 2022
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -72,9 +72,9 @@ education:
           - Bullet point
           - Bullet point
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: BSc in Finance and Accounting
+      university: Corvinus University of Budapest
+      time: 2011 - 2015
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -86,8 +86,8 @@ education:
           - Bullet point
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
+    - role: Senior Associate, Marketing Analytics
+      time: 2018 - Present
       company: Startup Hubs, San Francisco
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
